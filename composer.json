@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/IteraResearch_ImportExportAttributes",
+    "name": "OpenMageModuleFostering\/IteraResearch_ImportExportAttributes",
     "type": "magento-module",
     "license": "GNU-Lesser-General-Public-License",
     "homepage": "",
-    "description": "Import / export product attributes, attribute options, attribute sets and groups.",
+    "description": "Import \/ export product attributes, attribute options, attribute sets and groups.",
     "authors": [
-    {
-        "name": "IteraResearch",
-        "email": "magentocommerce@itera-research.com"
-    }
-],
+        {
+            "name": "IteraResearch",
+            "email": "magentocommerce@itera-research.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
